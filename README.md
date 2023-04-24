@@ -6,4 +6,4 @@ This is a repository to store data, code, and information for my GIS projects. T
 - Conduct network analysis for service areas of public transportation dataset and demographic analysis using U.S. Census data via ArcGIS Pro and ArcGIS Online
 - Complete frequency analysis and waiting time evaluation by developing a complex public transit data model
 - Provide visually engaging graphics based on diverse and comprehensive analyzed results with ArcGIS StoryMaps
-Link is here: https://storymaps.arcgis.com/stories/26e80917ab3d42328f6e6f500f41589c
+- Our story is here: https://storymaps.arcgis.com/stories/26e80917ab3d42328f6e6f500f41589c
